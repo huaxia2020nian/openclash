@@ -3,8 +3,9 @@ DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,my7v.com
 DOMAIN-SUFFIX,shixunsuda.com
 DOMAIN-SUFFIX,cdeock.com
-;DOMAIN-SUFFIX,ott.cibntv.net
+DOMAIN-SUFFIX,ott.cibntv.net
 ;DOMAIN-SUFFIX,hls.tencent-video.com
 ;DOMAIN-SUFFIX,dash.tencent-video.com
 ;DOMAIN-SUFFIX,cdn.tencent-video.com
-;DOMAIN-SUFFIX,02085170.xyz
+DOMAIN-SUFFIX,pns.alicdn.com
+DOMAIN-SUFFIX,man.aliyuncs.com
